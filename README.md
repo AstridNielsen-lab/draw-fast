@@ -1,5 +1,7 @@
 # Draw Fast
 
+<img src="https://raw.githubusercontent.com/AstridNielsen-lab/draw-fast/3b602c0132783d217aa21d7f659233d412df9262/drawfast.jpg" alt="DrawFast App">
+
 **Draw Fast** is a demo that shows how you can use the [**tldraw library**](https://tldraw.dev) with realtime image generation. The demo has now finished and we’ve taken it down. But you can still run it on your own machine and try it out.
 
 Here are two ways of doing that.
